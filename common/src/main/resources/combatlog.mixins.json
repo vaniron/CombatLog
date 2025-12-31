@@ -8,7 +8,8 @@
     "EntityDamageMixin",
     "EntityDataSaverMixin",
     "PlayerEntityMixin",
-    "CommandManagerMixin"
+    "CommandManagerMixin",
+    "ServerPlayNetworkHandlerMixin"
   ],
   "injectors": {
     "defaultRequire": 1
